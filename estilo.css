@@ -4,4 +4,7 @@ body{
     background-color: blueviolet;
     color: black;
     font-family: "Gravitas One", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
