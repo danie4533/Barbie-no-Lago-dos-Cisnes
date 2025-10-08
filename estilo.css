@@ -7,4 +7,19 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 800px;
+    margin: 0;
+}
+
+button{
+    background-color: blue;
+    color: black;
+    padding: 20px;
+}
+main}
+    text-aligh: center;
+    max-width: 90%;
+}
+.img01{
+    width: 110%;
 }
